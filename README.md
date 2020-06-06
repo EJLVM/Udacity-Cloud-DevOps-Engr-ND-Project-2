@@ -2,7 +2,6 @@
 
 Project 2 of the Udacity Cloud DevOps Engineer Nanodegree:
 
-Using Cloud Formation: deploy an application (Apache Web Server) and pick up code (JavaScript and HTML) from S3 Storage and deploy it in the appropriate folder on the web server.
 
 ## Architecture diagram
 
