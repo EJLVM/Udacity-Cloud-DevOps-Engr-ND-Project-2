@@ -6,7 +6,7 @@ Using Cloud Formation: deploy an application (Apache Web Server) and pick up cod
 
 ## Architecture diagram
 
-![LucidChart Architecture Diagram](Project2-Architecture.png)
+![LucidChart Architecture Diagram Screen shot](img/Project2-Architecture.png)
 
 ## How to run
 
