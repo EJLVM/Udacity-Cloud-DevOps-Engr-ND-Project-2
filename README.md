@@ -23,4 +23,4 @@ aws configure
 
 ## Application URL
 
-Application currently available [here](http://udagr-WebAp-1RDFRSK6R77T4-933787679.us-east-1.elb.amazonaws.com/).
+Application currently available [here](http://udagr-WebAp-1RDFRSK6R77T4-933787679.us-east-1.elb.amazonaws.com/)
