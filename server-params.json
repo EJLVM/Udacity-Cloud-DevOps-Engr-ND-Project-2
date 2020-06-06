@@ -1,0 +1,4 @@
+[
+  { "ParameterKey": "EnvironmentName", "ParameterValue": "UdacityProject2" },
+  { "ParameterKey": "LocalIP", "ParameterValue": "1.2.3.4/32" }
+]
